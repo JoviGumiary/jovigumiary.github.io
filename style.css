@@ -1,0 +1,25 @@
+
+.jumbotron{
+	padding-top: 6rem;
+	background-color: #e2edff;
+}
+
+#gallery{
+	background-color: #e2edff;
+}
+
+section{
+	padding-top: 5rem;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+.gallery-img{
+	width: 100%;
+}
+
+#Rrqhoshi .row > * {
+	padding: 0;
+}
